@@ -6,7 +6,7 @@
 Summary:    PHP and JavaScript AJAX library
 Name:       php-pear-%{_pearname}
 Version:    0.5.6
-Release:    %mkrel 2
+Release:    %mkrel 3
 License:    LGPL
 Group:      Development/PHP
 URL:        http://pear.php.net/package/%{_pearname}
