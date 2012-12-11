@@ -63,3 +63,35 @@ fi
 %{_datadir}/pear/data/%{upstream_name}
 %{_datadir}/pear/packages/%{upstream_name}.xml
 
+
+
+%changelog
+* Fri Dec 16 2011 Oden Eriksson <oeriksson@mandriva.com> 0.5.6-7mdv2012.0
++ Revision: 741988
+- fix major breakage by careless packager
+
+* Fri May 27 2011 Oden Eriksson <oeriksson@mandriva.com> 0.5.6-6
++ Revision: 679339
+- mass rebuild
+
+* Tue Dec 07 2010 Oden Eriksson <oeriksson@mandriva.com> 0.5.6-5mdv2011.0
++ Revision: 613666
+- the mass rebuild of 2010.1 packages
+
+* Sat Dec 12 2009 Guillaume Rousse <guillomovitch@mandriva.org> 0.5.6-4mdv2010.1
++ Revision: 477858
+- spec cleanup
+- use pear installer
+- don't ship tests, even in documentation
+- own all directories
+- use rpm filetriggers starting from mandriva 2010.1
+
+* Mon Sep 14 2009 Thierry Vignaud <tv@mandriva.org> 0.5.6-3mdv2010.0
++ Revision: 441110
+- rebuild
+
+* Mon Feb 16 2009 Jerome Martin <jmartin@mandriva.org> 0.5.6-2mdv2009.1
++ Revision: 341144
+- import php-pear-HTML_AJAX
+
+
