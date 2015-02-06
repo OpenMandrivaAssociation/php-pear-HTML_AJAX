@@ -4,7 +4,7 @@
 
 Name:       php-pear-%{upstream_name}
 Version:    0.5.6
-Release:    8
+Release:    9
 Summary:    PHP and JavaScript AJAX library
 License:    LGPL
 Group:      Development/PHP
